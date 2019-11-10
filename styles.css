@@ -1,0 +1,81 @@
+img{
+ height: 550px;
+ width: 1375px;
+ display: flex;
+ justify-content: center;
+ }
+
+.title{
+ font-size: 900%;
+ position: absolute;
+ top: 35%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ color: white;
+ font-family: 'Fredericka the Great', cursive;
+}
+
+.name{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 400%;
+   font-family: 'Fredericka the Great', cursive;
+}
+
+.image-one{
+  object-fit: cover;
+  height: 350px;
+  width: 1375px;
+  display: flex;
+  justify-content: center; }
+​
+.title {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.Fact-or-Myth{
+  display: flex;
+  align-items: center;
+}
+.image-two {
+  object-fit: cover;
+  height: 250px;
+  width: 300px;
+}
+.image-three {
+  object-fit: cover;
+  height: 250px;
+  width: 300px;
+}
+​
+.w3-margin.w3-xlarge {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f44336;
+  color: white;
+  text-align: center;
+}
+​
+.w3-row-padding.w3-container{
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+​
+.w3-row-padding.w3-light-grey.w3-padding-64.w3-container{
+  margin-top: 25px;
+  margin-top: 25px;
+}
+​
+.all-names {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-content: space-around;
+}

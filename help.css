@@ -1,0 +1,60 @@
+body {font-family: "Lato", sans-serif}
+h1 {font-family: "Lato", sans-serif}
+h2 {font-family: "Lato", sans-serif}
+h3 {font-family: "Lato", sans-serif}
+h4 {font-family: "Lato", sans-serif}
+h5 {font-family: "Lato", sans-serif}
+h6 {font-family: "Lato", sans-serif}
+.w3-bar {font-family: "Montserrat", sans-serif}
+h1 {font-family: 'Fredericka the Great', cursive}
+.fa-anchor {font-size:200px}
+.fa-coffee {font-size:200px}
+.image-one {
+  object-fit: cover;
+  height: 350px;
+  width: 100%;
+  filter: blur(5px);
+ -webkit-filter: blur(5px);
+  display: flex;
+  justify-content: center;
+}
+.title {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px
+}
+.Fact-or-Myth{
+  text-align: center;
+  margin-top: 5px;
+}
+.image-two {
+  object-fit: cover;
+  height: 250px;
+  width: 300px;
+  position: relative;
+}
+.image-three {
+  object-fit: cover;
+  height: 250px;
+  width: 300px;
+}
+.text{
+  text-align: center;
+}
+.subheading{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Lato", sans-serif
+}
+.w3-row-padding.w3-container{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.w3-row-padding.w3-light-grey.w3-container{
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
