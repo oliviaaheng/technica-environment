@@ -31,16 +31,22 @@ button {font-family: "Montserrat", sans-serif}
   left: 50%;
   transform: translate(-50%, -50%);
   color: black;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 75px;
 }
 
 .map{
-  display: inline-block;
-  text-align: center;
+  /* display: inline-block;
+  text-align: center; */
+  display: flex;
+  justify-content: center;
  }
 
 .USD{
   display: flex;
   justify-content: center;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 50px;
 }
 .Fact-or-Myth{
   text-align: center;
